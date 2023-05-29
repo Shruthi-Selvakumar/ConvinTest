@@ -1,0 +1,6 @@
+google-auth
+google-auth-oauthlib==0.4.6
+google-auth-httplib2
+google-api-python-client==2.20.0
+Django==3.2.4
+djangorestframework==3.12.4
